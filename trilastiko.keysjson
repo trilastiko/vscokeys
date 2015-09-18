@@ -7,7 +7,7 @@
     "modeKey": "53",
     "keys":
     [
-        { "mod":"0", "key":"12", "adj" : {"_SetPreset":"VSCO Film 06 F - 400H⁺¹ +"} },
+        { "mod":"0", "key":"12", "adj" : {"_SetPreset":"VSCO Film 06 Fuji/F - 400H⁺¹ +"} },
         { "mod":"0", "key":"13", "adj" : {"Saturation":"-1"} },
         { "mod":"0", "key":"14", "adj" : {"Saturation":"1"} },
         { "mod":"2", "key":"13", "adj" : {"Exposure2012":"-.1"} },
