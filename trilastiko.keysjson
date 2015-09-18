@@ -25,6 +25,6 @@
         { "mod":"2", "key":"7", "adj" : {"Temperature":"-100"} },
         { "mod":"2", "key":"8", "adj" : {"Temperature":"100"} },
         { "mod":"2", "key":"11", "adj" : {"Tint":"-1"} },
-        { "mod":"2", "key":"45", "adj" : {"Tint":"1"} },
+        { "mod":"2", "key":"45", "adj" : {"Tint":"1"} }
     ]
 }
