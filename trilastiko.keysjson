@@ -1,6 +1,6 @@
 {
     "name": "trilastiko",
-    "description": "Test file",
+    "description": "vsco keys layout for lightroom on mac by trilastiko",
     "author": "trilastiko",
     "uuid": "trilastiko",
     "lrVersion": "4",
@@ -8,7 +8,7 @@
     "keys":
     [
         { "mod":"0", "key":"12", "adj" : {"_SetPreset":"VSCO Film 06 Push & Pull - Fuji/F - 400H⁺¹ +"} },
-        { "mod":"2", "key":"12", "adj" : {"_SetPreset":"VSCO Film 01 LR4 Canon/C - Fuji 160C"} },
+        { "mod":"2", "key":"12", "adj" : {"_SetPreset":"Preset 01"} },
         { "mod":"0", "key":"13", "adj" : {"Saturation":"-1"} },
         { "mod":"0", "key":"14", "adj" : {"Saturation":"1"} },
         { "mod":"2", "key":"13", "adj" : {"Exposure2012":"-.1"} },
