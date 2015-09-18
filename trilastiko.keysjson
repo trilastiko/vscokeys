@@ -7,8 +7,9 @@
     "modeKey": "53",
     "keys":
     [
-        { "mod":"0", "key":"12", "adj" : {"_SetPreset":"VSCO Film 06 Push & Pull - Fuji/F - 400H⁺¹ +"} },
-        { "mod":"2", "key":"12", "adj" : {"_SetPreset":"Preset 01"} },
+        { "mod":"8", "key":"18", "adj" : {"_SetPreset":"Preset 01"} },
+        { "mod":"8", "key":"19", "adj" : {"_SetPreset":"Preset 02"} },
+        { "mod":"8", "key":"20", "adj" : {"_SetPreset":"Preset 03"} },
         { "mod":"0", "key":"13", "adj" : {"Saturation":"-1"} },
         { "mod":"0", "key":"14", "adj" : {"Saturation":"1"} },
         { "mod":"2", "key":"13", "adj" : {"Exposure2012":"-.1"} },
